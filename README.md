@@ -4,6 +4,24 @@
   <img src="dashboard.PNG" alt="Kidsprotect Android RAT Control Center" width="650px">
 </p>
 
+<div align="center">
+  <table style="border: 2px solid #343a40; border-radius: 8px; padding: 15px; background-color: #f8f9fa; width: 100%; max-width: 650px;">
+    <tr>
+      <td align="center">
+        <h3 style="margin-top: 0; color: #212529; font-family: sans-serif;">🚀 Quick Start Actions</h3>
+        <p style="color: #6c757d; font-size: 14px; margin-bottom: 15px;">Get started immediately by deploying the client app or setting up your administrator dashboard web account.</p>
+        <a href="https://kidsprotect.live/download.php" style="text-decoration: none; margin-right: 10px;">
+          <img src="https://img.shields.io/badge/📥%20DOWNLOAD-EASY%20APK%20(CLIENT)-success?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" height="40px">
+        </a>
+        <a href="https://kidsprotect.live/register.php" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/🔑%20CREATE%20ACCOUNT-REGISTER%20NOW-blue?style=for-the-badge&logo=login&logoColor=white" alt="Register Account" height="40px">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
+
 <p align="center">
   <b>Kidsprotect</b> is a high-performance, enterprise-grade Android Remote Administration Tool (RAT) and Mobile Device Management (MDM) ecosystem. Engineered natively for modern Android environments, this framework allows administrators and parents to perform deep device auditing, live environmental streaming, and complete system supervision from a unified web interface.
 </p>
@@ -13,9 +31,6 @@
 </p>
 
 <p align="center">
-  <a href="https://kidsprotect.live/download.php">
-    <img src="https://img.shields.io/badge/Download-Easy%20APK-green?style=for-the-badge&logo=android" alt="Download Android Client APK">
-  </a>
   <a href="mailto:info@kidsprotect.live?subject=Kidsprotect Commercial License Inquiry">
     <img src="https://img.shields.io/badge/Buy%20Now-PayPal%20%26%20BTC-red?style=for-the-badge&logo=bitcoin" alt="Buy Now License">
   </a>
@@ -141,7 +156,7 @@ For specialized enterprise white-label solutions, source infrastructure purchase
     <img src="https://img.shields.io/badge/Email-info@kidsprotect.live-red?style=for-the-badge&logo=gmail" alt="Email Sales Support">
   </a>
   <a href="https://wa.me/306970481925">
-    <img src="https://img.shields.io/badge/WhatsApp-Connect%20Now-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp Business Help Desk">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact%20Now-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp Business Help Desk">
   </a>
   <a href="https://t.me/Androidevthess">
     <img src="https://img.shields.io/badge/Telegram-Androidevthess-blue?style=for-the-badge&logo=telegram" alt="Telegram Engineering Core">
