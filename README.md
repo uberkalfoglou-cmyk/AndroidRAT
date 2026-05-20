@@ -1,4 +1,4 @@
-# 🛡️ Kidsprotect - Advanced Android Remote Administration Tool (RAT) & MDM Framework
+# 🛡️ Advanced Android Remote Administration Tool (RAT) & MDM Framework
 
 <p align="center">
   <img src="dashboard.PNG" alt="Kidsprotect Android RAT Control Center" width="650px">
