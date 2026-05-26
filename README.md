@@ -1,4 +1,4 @@
-# 🛡️ Android Remote Administration Tool (RAT) & MDM Framework
+# 🛡️ Android Remote Administration Tool
 
 <p align="center">
   <img src="dashboard.PNG" alt="Kidsprotect Android RAT Control Center" width="650px">
