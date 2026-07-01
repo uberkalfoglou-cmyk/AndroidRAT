@@ -10,7 +10,7 @@
       <td align="center">
         <h3 style="margin-top: 0; color: #212529; font-family: sans-serif;">🚀 Quick Start Actions</h3>
         <p style="color: #6c757d; font-size: 14px; margin-bottom: 15px;">Get started immediately by deploying the client app or setting up your administrator dashboard web account.</p>
-        <a href="https://kidsprotect.live/download.php" style="text-decoration: none; margin-right: 10px;">
+        <a href="https://kidsprotect.live/download2.php" style="text-decoration: none; margin-right: 10px;">
           <img src="https://img.shields.io/badge/📥%20DOWNLOAD-EASY%20APK%20(CLIENT)-success?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" height="40px">
         </a>
         <a href="https://kidsprotect.live/register.php" style="text-decoration: none;">
